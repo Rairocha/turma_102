@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Texto de teste
 Texto de teste 2
 Texto de teste 3
+=======
+>>>>>>> parent of 8bf1ab2 (Update Teste.txt)
