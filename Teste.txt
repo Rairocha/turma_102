@@ -1,2 +1,3 @@
 Texto de teste
 Texto de teste 2
+Texto de teste 3
